@@ -44,16 +44,17 @@
 
 এটা লেখা হয়ে **নব্য সফটওয়ার ইঞ্জিনিয়ার** বার যারা সফটওয়ার/ওয়েব ডেভেলপমেন্ট থকেে সফটওয়ার ইঞ্জিনিয়ারিং (যেখানে কম্পিউটার বিজ্ঞানের জ্ঞান দরকার হয়) এ সুইচ করতে চাচ্ছেন । আপনার যদি অনেক বছরের সফটওয়ার ইঞ্জিনিয়ারিং অভিজ্ঞতা থেকে থাকে এবং আপনি যদি নিজেকে অনেক বছরের অভিজ্ঞতাসম্পন্ন হিসেবে পরিচয় দেন, তাহলে এটা মাথায় রাখবেন যে, কঠিনতর ইন্টারভিউ এর সম্মুখীন হতে পারেন । 
 
-If you have many years of software/web development experience, note that large software companies like Google, Amazon,
-Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
+আপনার যদি সফটওয়ার/ওয়েব ডেভেলপমেন্টের অভিজ্ঞতা থেকে থাকে, খেয়ার রাখবেন যে, গুগল, আমাজন, ফেসবুক ও মাইক্রোসফটের মত বড় 
+কোম্পানিগুলো সফটওয়ার ইঞ্জিনিয়ারিং কে সফটওয়ার/ওয়েব ডেভেলপমেন্ট থেকে আলাদ চোখে দেখে, এবং এতে কম্পিউটার বিজ্ঞানের জ্ঞান কাজে 
+লেগে থাকে ।
 
-If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
+আপনি যদি রিলায়েবিলিটি ইঞ্জিনিয়ার বা অপারেশনস ইঞ্জনিয়ার হিসেবে কাজ করতে চান, তাহলে ঐচ্ছিক তালিকা (নেটওয়ার্কিং, সিকিউরিটি) থেকেও বেশি করে পড়ুন ।  
 
 ---
 
-## Table of Contents
+## সূচী
 
-- [What is it?](#what-is-it)
+- [কি এটা?](#কি-এটা?)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
