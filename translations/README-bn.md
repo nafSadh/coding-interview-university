@@ -1,22 +1,23 @@
-# Coding Interview University
+# কোডিং ইন্টারভিউ বিশ্ববিদ্যালয়
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer,
-> but it grew to the large list you see today. After going through this study plan, [I got hired
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
+> সফটওয়ার ইঞ্জিনিয়ার হবার জন্য প্রস্তুতি পরিকল্পনার টু-ডু তালিকা হিসেবে এটি আসলে তৈরি করেছিলাম,
+> কিন্তু সময়ের সাথে এটি এই বিশাল লিস্টে পরিণত হয়েছে । এই স্টাডি-প্ল্যান অনুযায়ী প্রস্তুতি নেয়ার পর [আমি আমাজনে
+> সফটওয়ার ডেভেলপমেন্ট ইঞ্জিনিয়ার হিসেবে যোগ দেই](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
+> আমি যতটা পড়াশোনা করেছি, আপনার হয়তো ততটা করা প্রয়োজন হবে না । সে যাই হোক, আপনার যা কিছু দরকার হতে 
+> পারে তার সব কিছুই এখানে পাবেন । 
 >
-> The items listed here will prepare you well for an interview at just about any software company,
-> including the giants: Amazon, Facebook, Google or Microsoft.
+> এখানে যা কিছু উল্লেখ করা আছে, তা আপনাকে আমাজন, ফেসবুক, গুগল ও মাইক্রোসফট এইসব বড় কোম্পানি সহ
+> যেকোন সফটওয়ার কোম্পানির ইন্টারভিউ এর জন্যই ভালো ভাবে প্রস্তুত হতে সাহায্য করবে । 
 >
-> *Best of luck to you!*
+> *শুভকামনা রইলো!*
 
-Translations:
+অনুবাদসমূহ:
 - [中文版本](translations/README-cn.md)
 - [Tiếng Việt - Vietnamese](translations/README-vi.md)
 - [Español](translations/README-es.md)
 - [Português Brasileiro](translations/README-ptbr.md)
 
-Translations in progress:
+অনুবাদের কাজ চলছে:
 - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 - [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
 - [Bahasa Indonesia](https://github.com/jwasham/coding-interview-university/issues/101)
@@ -35,15 +36,13 @@ Translations in progress:
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Japanese (日本語)](https://github.com/jwasham/coding-interview-university/issues/257)
 
-## What is it?
+## কি এটা?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+একজন ওয়েব ডেভেলপার (স্বশিক্ষিত, কোন কম্পুবিজ্ঞান ডিগ্রী ছাড়া) থেকে কোন বড় কোম্পানির সফটওয়ার ইঞ্জিনিয়ার হবার জন্য এটি একটি কয়েক মাস মেয়াদী প্রস্তুতি পরিকল্পনা । 
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![হোয়াইটবোর্ডে কোডিং - HBO এর সিলিকন ভ্যালি থেকে](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-This is meant for **new software engineers** or those switching from
-software/web development to software engineering (where computer science knowledge is required). If you have
-many years of experience and are claiming many years of software engineering experience, expect a harder interview.
+এটা লেখা হয়ে **নব্য সফটওয়ার ইঞ্জিনিয়ার** বার যারা সফটওয়ার/ওয়েব ডেভেলপমেন্ট থকেে সফটওয়ার ইঞ্জিনিয়ারিং (যেখানে কম্পিউটার বিজ্ঞানের জ্ঞান দরকার হয়) এ সুইচ করতে চাচ্ছেন । আপনার যদি অনেক বছরের সফটওয়ার ইঞ্জিনিয়ারিং অভিজ্ঞতা থেকে থাকে এবং আপনি যদি নিজেকে অনেক বছরের অভিজ্ঞতাসম্পন্ন হিসেবে পরিচয় দেন, তাহলে এটা মাথায় রাখবেন যে, কঠিনতর ইন্টারভিউ এর সম্মুখীন হতে পারেন । 
 
 If you have many years of software/web development experience, note that large software companies like Google, Amazon,
 Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
