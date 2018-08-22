@@ -54,14 +54,14 @@
 
 ## সূচী
 
-- [কি এটা?](#কি-এটা?)
+- [কি এটা?](#কি-এটা)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
-- [Book List](#book-list)
+- [বইয়ের তালিকা](#বইয়ের-তালিকা)
 - [Before you Get Started](#before-you-get-started)
 - [What you Won't See Covered](#what-you-wont-see-covered)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
@@ -266,29 +266,29 @@ Read more about choices:
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-## Book List
+## বইয়ের তালিকা
 
-This is a shorter list than what I used. This is abbreviated to save you time.
+আমি যে তালিকা ব্যবহার করেছি, তারচেয়ে এই তালিকাটি ছোট । আপনার সময় বাঁচাতে এটি সংক্ষেপ করা হয়েছে । 
 
-### Interview Prep
+### ইন্টারভিউ প্রস্তুতি
 
 - [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
-    - answers in C++ and Java
-    - this is a good warm-up for Cracking the Coding Interview
-    - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
+    - উত্তর গুলো সি++ ও জাভায় 
+    - ক্র্যাকিং দ্য কোডিং ইন্টারভিউ পড়বার আগে এটা ভালো ওয়ার্ম আফ 
+    - খুব কঠিন কিছু নয়, বেশিরভাগ প্রবলেমই সাধারণ ইন্টারভিউতে যেরকম প্রশ্ন করবে তার থেকে সহজতর (আমার দেখা মতে)
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-    - answers in Java
+    - উত্তর গুলো জাভায় 
 
-If you have tons of extra time:
+হাতে বেশ সময় থাকলে:
 
 - [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 - [ ] Elements of Programming Interviews (Java version)
     - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
-### Computer Architecture
+### কম্পিউটার আর্কিটেকচার (কম্পিউটারের নাড়িনক্ষত্র)
 
-If short on time:
+হাতে অল্প সময় থাকলে:
 
 - [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
     - The book was published in 2004, and is somewhat outdated, but it's a terrific resource for understanding a computer in brief.
